@@ -1,9 +1,10 @@
 # Introduction
 
-This repo contains colab notebooks for next-gen Kaldi.
+This repo contains colab notebooks for the following sub projects of
+next-gen Kaldi:
 
-# sherpa
-
-This folder contains colab notebooks for [sherpa][sherpa].
+ - [sherpa][sherpa]
+ - [sherpa-onnx][sherpa-onnx]
 
 [sherpa]: https://github.com/k2-fsa/sherpa
+[sherpa-onnx]: https://github.com/k2-fsa/sherpa-onnx
